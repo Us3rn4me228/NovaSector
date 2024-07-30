@@ -191,6 +191,7 @@
 		/obj/item/xenoarch/handheld_recoverer,
 		/obj/item/t_scanner/adv_mining_scanner,
 		/obj/item/mining_scanner,
+                /obj/item/glassblowing/magnifying_glass,
 		/obj/item/gps
 		))
 
